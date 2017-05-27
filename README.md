@@ -1,9 +1,10 @@
 # AutoProcess
 
 用Python做的iOS自动化交付脚本
+
 运行环境：python2.7
 
-###Pack
+### Pack
 
 打开终端
 
